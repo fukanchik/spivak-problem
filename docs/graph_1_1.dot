@@ -1,0 +1,6 @@
+graph {
+ranksep=2
+nodesep=2
+node [label="" shape=circle style=filled fixedsize=true color=blue fillcolor=blue width=0.2];
+"1" -- "2" [style="solid",penwidth="4",color="red"];
+}
